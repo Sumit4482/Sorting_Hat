@@ -1,6 +1,6 @@
 # sorting_hat
 
-A new Flutter project.
+This Sorting Hat Quiz Will Tell You Which Hogwarts House You Truly Belong In
 
 ## Getting Started
 
