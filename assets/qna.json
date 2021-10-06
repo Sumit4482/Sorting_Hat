@@ -1,0 +1,53 @@
+[
+    {
+        "1": "Which of your skills are you most proud of ?",
+        "2": "You would be most hurt if a person called you...",
+        "3": "It's Saturday, you've finished your homework, and you have some free time. You decide to spend some time away from your common room. Where do you go?",
+        "4": "What would you see in the Mirror of Erised ?",
+        "5": "You're allowed a pet at Hogwarts: an owl, a cat, or a toad. Which do you bring?"
+    },
+    {
+        "1": {
+            "a": "My ability to get what I want.",
+            "b": "My ability to keep secrets.",
+            "c": "My ability to make new friends.",
+            "d": "My ability to absorb new information."
+        },
+        "2": {
+            "a": "Weak",
+            "b": "Ignorant",
+            "c": "Unkind",
+            "d": "Boring"
+        },
+        "3": {
+            "a": "The Room of Requirement",
+            "b":  "The kitchens",
+            "c":  "The Forbidden Forest",
+            "d": "The library"
+        },
+       "4": {
+            "a": "Myself, surrounded by riches.",
+            "b": "Myself, experiencing a marvellous adventure.",
+            "c": "Myself, surrounded by my loving family and friends.",
+            "d": "Myself, knowledgable above all."
+       },
+       "5": {
+            "a": "Nothing. I can't be trusted to look after a pet!",
+            "b": "Toad",
+            "c": "Cat",
+            "d": "Owl"
+       }
+   },
+  {
+    "1": "My ability to absorb new information.",
+    "2": "Myself, knowledgable above all.",
+    "3": "def",
+    "4": "Toad",
+    "5": "Owl",
+    "6": "library",
+    "7": "type",
+    "8": "def",
+    "9": "type",
+    "10": "def"
+  }
+]
